@@ -1,0 +1,9 @@
+[submodule "web-test-react-ts"]
+	path = web-test-react-ts
+	url = https://github.com/neko200517/web-test-react-ts
+[submodule "web-test-react"]
+	path = web-test-react
+	url = https://github.com/neko200517/web-test-react
+[submodule "web-test-django"]
+	path = web-test-django
+	url = https://github.com/neko200517/web-test-django
